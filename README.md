@@ -1,9 +1,10 @@
 # 🔦FlashLight Button App 🔦
 
-## Code: Swift 🕊
-### By: JB 🤪
+[![swift-version](https://img.shields.io/badge/swift-5-orange.svg)](https://github.com/apple/swift)
 
-Using a button to change the view background colour to Black and White. 
-Also using the Button action to change the Button text to "Light On" when view is white and "Light Off" when the view is black. 
 
-Feel free to use my project 
+Simple UIButton which changes the label text and background colour to make it look like the lights are switching on and off.  
+
+![Screenshot 2021-02-25 at 19 33 49](https://user-images.githubusercontent.com/74561172/109207075-9e586d00-77a0-11eb-9335-cb248944667e.png)
+
+Created by JB 
